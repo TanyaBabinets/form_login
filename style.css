@@ -1,0 +1,54 @@
+body{
+    font-family: Arial, sans-serif;
+    font-size: 24px;
+    text-align: center ;
+    flex-direction: column;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: bisque;
+}
+.btn {
+    background-color: forestgreen;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    width:110px;
+    border-radius: 4px;
+    cursor: pointer;
+    text-decoration: none;
+    display: inline-block;
+}
+h2{
+    text-align: center;
+    color: forestgreen;
+}
+.form{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+h1{
+    text-align: center;
+    color: forestgreen;
+}
+.form label {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+input {
+    padding: 10px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    margin-bottom: 20px;
+    margin-right: 80%;
+}
+p {
+    text-align: center;
+}
+button.btn {
+    width: 150px;
+}

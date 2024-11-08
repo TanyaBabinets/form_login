@@ -27,6 +27,7 @@
 <div class="start">
 <h2>Make Your Choice</h2>
 <ul>
+    <li><a href="login.php">Login</a></li>
     <li><a href="addUser.php">Add User</a></li>
     <li><a href="showUsers.php">Show All Users</a></li>
 </ul>

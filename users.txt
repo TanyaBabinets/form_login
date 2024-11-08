@@ -3,3 +3,9 @@ TanyaBabinets:2111:sweetstoryod@gmail.com
 Tanya2:211:sweet@gmail.com
 inna:123:inna@mail.com
 nataly:333:nata@gmail.com
+vv:111:vv@gmail.com
+ff:$2y$10$Dvy3fpuT11sB5olf0.PQW.RfYtCdyFFkgNUx.3rXWHFgvt54.AtuK:ff@gmail.com
+www::www@mail.com
+vika::vika@mail.com
+sveta:$2y$10$ZvvpwwtkAXrp.8PX4Zr7aeav2EaRdnW3pjOPC4kalL1HKpDhallsm:sveta@mail.com
+ivan:$2y$10$4cJwtL17XZEu9D6rknHR1eZGUSRm1AOusIoKGmCOOJtlCTJ3nNZgO:ivan@mail.com
